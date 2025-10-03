@@ -2,8 +2,8 @@
 <launch4jConfig>
   <dontWrapJar>false</dontWrapJar>
   <headerType>gui</headerType>
-  <jar>C:\Users\Bartek\Desktop\Mixed\The Mixed Model.jar</jar>
-  <outfile>C:\Users\Bartek\Desktop\Mixed\run me2.exe</outfile>
+  <jar>D:\The Mixed Model\out\artifacts\The_Mixed_Model_jar\The Mixed Model.jar</jar>
+  <outfile>C:\Users\kyanm\OneDrive\Desktop\Stream\The Mixed Model\Motvation\Motivation.exe</outfile>
   <errTitle></errTitle>
   <cmdLine></cmdLine>
   <chdir>.</chdir>
@@ -11,14 +11,14 @@
   <downloadUrl></downloadUrl>
   <supportUrl></supportUrl>
   <stayAlive>false</stayAlive>
-  <restartOnCrash>false</restartOnCrash>
+  <restartOnCrash>true</restartOnCrash>
   <manifest></manifest>
   <icon></icon>
   <classPath>
     <mainClass>FakeMain</mainClass>
   </classPath>
   <jre>
-    <path>JRE</path>
+    <path>jre</path>
     <requiresJdk>false</requiresJdk>
     <requires64Bit>false</requires64Bit>
     <minVersion></minVersion>
